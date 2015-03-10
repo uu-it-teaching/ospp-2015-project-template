@@ -10,7 +10,7 @@ Ett gruppkontrakt ska vara underskrivet av samtliga projektmedlemmar. Följande 
 - Brott mot reglerna i gruppkontraktet.
 - Allmänna förutsättningar.
 
-Denna mall förgruppkontrakt är baserat på:
+Denna mall för gruppkontrakt är baserat på:
 - http://www.cemus.uu.se/dokument/hub2010/Gruppkontrakt.pdf
 
 Kontraktet är skrivet i formatet Markdown, läs mer här: 
