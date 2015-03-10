@@ -1,7 +1,13 @@
 # Presentation av gruppens medlemmar
 I detta dokument skall var och en av gruppens medlemmar skriva en kort presentation av sig själv. 
 
-Utgå från mallen nedan och skapa ett avsnitt för varje medlem i gruppen sorterade i bokstavsorning. 
+Fyll i tabellen nedan. 
+
+Förnamn | Efternamn | Användarnamn (Github)
+--------|-----------|---------------------
+Anders  | Andersson | anders877
+
+Utgå sedan från mallen nedan och skapa ett avsnitt för varje medlem i gruppen sorterade i bokstavsorning. 
 
 ## Förnamn Efternamn 
 
