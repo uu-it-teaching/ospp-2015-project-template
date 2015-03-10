@@ -8,7 +8,7 @@ Ett gruppkontrakt ska vara underskrivet av samtliga projektmedlemmar. Följande 
 - Arbetsformer och arbetsfördelning.
 - Normer i projektgruppen – överenskommelse om goda gruppegenskaper.
 - Brott mot reglerna i gruppkontraktet.
--  Allmänna förutsättningar.
+- Allmänna förutsättningar.
 
 Denna mall förgruppkontrakt är baserat på:
 - http://www.cemus.uu.se/dokument/hub2010/Gruppkontrakt.pdf
