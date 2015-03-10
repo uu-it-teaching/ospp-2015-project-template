@@ -19,7 +19,7 @@ Kontraktet är skrivet i formatatet Markdown, läs mer här:
 ## Rutiner
 
 Exempel på innehåll: 
-- Skall gruppen i huvudsak sitta tilsammans eller endast träffas för kortare möten?
+- Skall gruppen i huvudsak sitta och arbeta tillsammans eller endast träffas för kortare möten?
 - Hur ofta ska gruppen träffas? 
 - Hur långa ska mötena vara?
 - När på dagen ska mötena läggas?
