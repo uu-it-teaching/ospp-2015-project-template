@@ -21,6 +21,7 @@ Kortfattad beskrivning över områden där du tror du har lättast att bidra til
 - dokumentation
 - rapportskrivande
 - muntlig presentation
+- lägg gärna till flera punkter ...
 
 ### Personlig utveckling
 
@@ -35,5 +36,6 @@ Under projektet hoppas jag förutom att bli ännu bättre på mina redan starka 
 - dokumentation
 - rapportskrivande
 - muntlig presentation
+- lägg gärna till flera punkter ...
 
 
