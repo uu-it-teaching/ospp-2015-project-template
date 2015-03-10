@@ -1,6 +1,6 @@
 # Dagbok för Förnamn Efternamn 
 
-<img src="../images/user.png" width="200">
+<img src="../images/user.png" width="200"> Ändra så att bilden länkar till bilden på dig. 
 
 Gör en kort anteckning i dagboken nedan varje gång du arbetat på projektet. 
 
