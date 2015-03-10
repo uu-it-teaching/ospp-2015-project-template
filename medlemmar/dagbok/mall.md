@@ -1,5 +1,3 @@
 # Dagbok för Förnamn Efternamn 
 
-<img src="./../images/user.png">
-
-![](../images/user.png)
+ <div style="text-align:center"><img src ="../images/user.png" /></div>.
