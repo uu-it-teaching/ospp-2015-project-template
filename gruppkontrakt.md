@@ -19,6 +19,7 @@ Kontraktet är skrivet i formatatet Markdown, läs mer här:
 ## Rutiner
 
 Exempel på innehåll: 
+- Skall gruppen i huvudsak sitta tilsammans eller endast träffas för kortare möten?
 - Hur ofta ska gruppen träffas? 
 - Hur långa ska mötena vara?
 - När på dagen ska mötena läggas?
@@ -28,7 +29,7 @@ Exempel på innehåll:
 ## Kommunikationen i gruppen
 
 Exempel på innehåll: 
-- Hur ska ni kommunicera mellan mötena? 
+- Hur ska gruppen kommunicera mellan möten? 
 - Hur ska gruppen agera om någon inte kommer på ett möte?
 - Hur ska samordning och rapportering ske inom projektgruppen?
 
@@ -46,8 +47,8 @@ Exempel på innehåll:
 - Ska ni växla formella roller vid varje möte?
 - Vilka roller behövs:
   - Projektledare?
-  - sekreterare?
-  - dokumentansvarig?
+  - Sekreterare?
+  - Dokumentansvarig?
 
 ## Beslutsformer
 
@@ -59,8 +60,9 @@ beslutet?
 
 ## Arbetsinsats
 
+För att undvika en del missförstånd och irritation kan det vara bra att redan från början göra klart för varandra vilka olika typer av arbetsinsatser som kan förekomma. 
 Exempel på innehåll: 
-- För att undvika en del missförstånd och irritation kan det vara bra att redan från början göra klart för varandra vilka arbetsinsatser man kan göra. 
+- Exempel på olika former av arbetsinsatser.
 - Vilka krav kan man ställa på varandra?
 
 ## Ansvar
@@ -68,7 +70,7 @@ Exempel på innehåll:
 Exempel på innehåll: 
 - Hur ska arbetet fördelas i gruppen?
 - Hur ska gruppen hantera om någon inte gör sin del av arbetet?
-- Hur mycket arbete ska göras mellan mötena?
+- Hur mycket arbete ska göras mellan möten?
 
 ## Konflikter
 
