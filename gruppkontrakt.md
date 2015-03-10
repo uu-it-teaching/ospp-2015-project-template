@@ -16,6 +16,8 @@ Denna mall förgruppkontrakt är baserat på:
 Kontraktet är skrivet i formatatet Markdown, läs mer här: 
 - https://help.github.com/articles/markdown-basics/
 
+Gruppen skall tillsammans utgå från denna mall (ändra, ta bort eller lägga till text) för att komma fram till ett gruppkontrakt som alla i gruppen är nöjda med. 
+
 ## Rutiner
 
 Exempel på innehåll: 
