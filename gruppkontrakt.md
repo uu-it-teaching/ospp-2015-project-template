@@ -89,7 +89,7 @@ Kontraktet skall skrivas ut på papper, skrivas under (namnförtydligande och si
 Detta kontrakt har den __________________________  upprättats av:
 
 
-Förnamn | Efternman | . . . . . . . . . . . Underskrift . . . . . . . . . . .   
+Förnamn | Efternamn | . . . . . . . . . . . Underskrift . . . . . . . . . . .   
 --------|-----------|------------
 Anders  | Andersson |
 Britta  | Björk     |
