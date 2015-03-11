@@ -4,4 +4,14 @@ Projektarbete på kursen Operativsystem och processorienterad programmering (1DT
 
 En kort beskriving av projektet. 
 
+## Kompilera 
+
+Kortfattade instruktioner hur projektet kompileras. 
+
+## Starta stystemet
+
+Kortfattade instruktioner för hur systemet startas. 
+
+## Lägg till mer 
+
 Lägg till mer information allt eftersom. 
