@@ -1,6 +1,6 @@
 # Presentation av gruppens medlemmar
 
-Tag foton av alla medlemmar i gruppen. Fotot skall visa personen från axlarna och uppåt. Spara bilderna i mappen `/medlemmar/images/`.
+Tag foton av alla medlemmar i gruppen. Varje foto skall visa personen framifrån från axlarna och uppåt. Spara bilderna i mappen `/medlemmar/images/`.
 
 Fyll sedan i tabellen nedan. 
 
