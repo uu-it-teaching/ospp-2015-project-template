@@ -9,9 +9,9 @@ Bild                                       | Förnamn               | Efternamn 
 <img src="images/user.png" width="100px">  | [Anders](#anders877)  | Andersson | `anders877`
 
 Utgå sedan från mallen nedan och skapa ett avsnitt för varje medlem i gruppen sorterade i bokstavsorning. 
-
-## Anders Andersson
 <a name="anders877"></a>
+## Anders Andersson
+
 
 ### Okänd talang
 Beskriv kortfattad något du gillar att göra vid sidan av dina studier. 
