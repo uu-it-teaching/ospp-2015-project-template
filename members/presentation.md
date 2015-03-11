@@ -1,4 +1,4 @@
-# Grupp XX - medlemmar
+# Grupp XX - Medlemmar
 
 > Ändra XX till numret på gruppen. 
 
