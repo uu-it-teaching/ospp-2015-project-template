@@ -4,6 +4,12 @@ Projektarbete på kursen Operativsystem och processorienterad programmering (1DT
 
 En kort beskriving av projektet. 
 
+Denna fil är skrivet i formatet Markdown, läs mer här:
+
+- https://help.github.com/articles/markdown-basics/
+
+Det går att redigera, förhandsvisa och spara (commit) sidan direkt i en webläsare via [projektsidan på github.com](./).
+
 ## Kompilera 
 
 Kortfattade instruktioner hur projektet kompileras. 
