@@ -8,7 +8,7 @@ Denna fil är skrivet i formatet Markdown, läs mer här:
 
 - https://help.github.com/articles/markdown-basics/
 
-Det går att redigera, förhandsvisa och spara (commit) sidan direkt i en webläsare via [projektsidan på github.com](./).
+Det går att redigera, förhandsvisa och spara (commit) sidan direkt i en webläsare via [projektsidan på github.com](./README.md).
 
 ## Kompilera 
 
