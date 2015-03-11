@@ -4,13 +4,14 @@ Tag foton av alla medlemmar i gruppen. Varje foto skall visa personen framifrån
 
 Fyll sedan i tabellen nedan. 
 
-Bild                                       | Förnamn | Efternamn | Användarnamn (Github)
--------------------------------------------|---------|-----------|---------------------
-<img src="images/user.png" width="100px">  | Anders  | Andersson | `anders877`
+Bild                                       | Förnamn               | Efternamn | Användarnamn (Github)
+-------------------------------------------|-----------------------|-----------|---------------------
+<img src="images/user.png" width="100px">  | [Anders](#anders877)  | Andersson | `anders877`
 
 Utgå sedan från mallen nedan och skapa ett avsnitt för varje medlem i gruppen sorterade i bokstavsorning. 
 
-## Förnamn Efternamn 
+## Anders Andersson
+<a name="anders877"></a>
 
 ### Okänd talang
 Beskriv kortfattad något du gillar att göra vid sidan av dina studier. 
