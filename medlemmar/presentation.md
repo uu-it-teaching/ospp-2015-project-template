@@ -2,7 +2,7 @@
 
 Tag foton av alla medlemmar i gruppen. Varje foto skall visa personen framifrån från axlarna och uppåt. Spara bilderna i mappen `/medlemmar/images/`.
 
-Fyll sedan i tabellen nedan. 
+Fyll sedan i tabellen nedan. Tabellen skall vara sorterad på förnamn. 
 
 Bild                                       | Förnamn               | Efternamn | Användarnamn (Github)
 -------------------------------------------|-----------------------|-----------|---------------------
