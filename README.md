@@ -14,12 +14,16 @@ Projektarbete på kursen Operativsystem och processorienterad programmering (1DT
 
 ## Kompilera 
 
-> Kortfattade instruktioner hur projektet kompileras. 
+> Kortfattade instruktioner för hur projektet kompileras. 
+
+## Testa
+
+> Kortfattade instruktioner för hur automatiska testfall körs.
 
 ## Starta stystemet
 
 > Kortfattade instruktioner för hur systemet startas. 
 
-## Lägg till mer 
+> ## Fler rubrikerr 
 
 > Lägg till mer information allt eftersom. 
