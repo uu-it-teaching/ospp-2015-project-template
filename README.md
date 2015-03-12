@@ -24,6 +24,6 @@ Projektarbete på kursen Operativsystem och processorienterad programmering (1DT
 
 > Kortfattade instruktioner för hur systemet startas. 
 
-> ## Fler rubrikerr 
+## Fler rubriker 
 
 > Lägg till mer information allt eftersom. 
