@@ -5,8 +5,10 @@ Kort reflektion på arbetet med fördjupningsuppgiften. Reflektera kring planeri
 ## Planering
 
 ##### Detta fungerade bra
+> Lägg till text ...
 
 ##### Detta kan förbättras
+> Lägg till text ...
 
 ## Arbetsfördelning och samarbete
 
