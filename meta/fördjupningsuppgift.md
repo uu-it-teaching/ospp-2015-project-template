@@ -25,3 +25,7 @@ Kort reflektion på arbetet med fördjupningsuppgiften. Reflektera kring planeri
 ##### Detta fungerade bra
 
 ##### Detta kan förbättras
+
+## Övrigt 
+
+Här kan ni lägga till sådant som inte passar under rubrikerna ovan. Ni kan även lägga till nya rubriker. 
