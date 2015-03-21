@@ -7,9 +7,9 @@ OSPP (1DT096) 2015 - Grupp XX
 
 > Fyll sedan i tabellen nedan. Tabellen skall vara sorterad på förnamn. 
 
-Bild                                       | Förnamn               | Efternamn | Användarnamn (Github)
--------------------------------------------|-----------------------|-----------|---------------------
-<img src="images/user.png" width="100px">  | [Anders](#anders877)  | Andersson | `anders877`
+Bild                                       | Förnamn               | Efternamn | Personnummer | Användarnamn (Github)
+-------------------------------------------|-----------------------|-----------|--------------|----------------------
+<img src="images/user.png" width="100px">  | [Anders](#anders877)  | Andersson | YYMMDD-XXXX  | `anders877`
 
 > Utgå sedan från mallen nedan och skapa ett avsnitt för varje medlem i gruppen sorterade i bokstavsorning. 
 <a name="anders877"></a>
