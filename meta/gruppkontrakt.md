@@ -1,5 +1,5 @@
-# OSPP (1DT096) 2015 - Gruppkontrakt (grupp XX)
-
+# Gruppkontrakt
+OSPP (1DT096) 2015 - Grupp XX
 > Ändra XX till numret på gruppen.
 
 Det huvudsakliga syftet med att upprätta ett gruppkontrakt är att alla i gruppen ska vara överens om mål och arbetssätt för det fortsatta arbetet. Utarbetandet av ett gruppkontrakt leder till diskussion och reflektion kring frågor som är viktiga för gruppens arbete och trivsel. Vid utformandet av gruppkontraktet är det viktigt att alla i gruppen deltar aktivt och att hänsyn tas till alla gruppmedlemmars synpunkter och önskemål.
