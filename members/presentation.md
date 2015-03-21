@@ -1,4 +1,4 @@
-# Grupp XX - Medlemmar
+# OSPP (1DT096) 2015 - Medlemmar (grupp XX)
 
 > Ändra XX till numret på gruppen. 
 
