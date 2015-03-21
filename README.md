@@ -1,6 +1,6 @@
-# Grupp XX - Namn på projeket
+# OSPP (1DT096) 2015 - Namn på projeket (grupp XX)
 
-> Ändra XX till numret på din grupp. 
+> Lägg till namnet på projektet och ändra XX till numret på din grupp. 
 
 Projektarbete på kursen Operativsystem och processorienterad programmering (1DT096) våren 2015, Uppsala universitet. 
 
