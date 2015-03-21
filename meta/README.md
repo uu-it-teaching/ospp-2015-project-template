@@ -1,1 +1,3 @@
-Reflektioner på gruppens arbete.
+- Presentation av gruppens medlemmar. 
+- Projektdagböcker.
+- Reflektioner på gruppens arbete.
