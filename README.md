@@ -1,4 +1,7 @@
-# OSPP (1DT096) 2015 - Namn på projeket (grupp XX)
+# Namn på projeket
+OSPP (1DT096) 2015
+
+Grupp XX
 
 > Lägg till namnet på projektet och ändra XX till numret på din grupp. 
 
