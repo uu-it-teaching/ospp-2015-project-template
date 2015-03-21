@@ -1,1 +1,1 @@
-Generated (if any) HTML documentation should be saved in this directory. 
+HTML documentation (if any) should be generated in this directory. 
