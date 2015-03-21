@@ -1,4 +1,7 @@
 # Dagbok för Förnamn Efternamn 
+OSPP (1DT096) 2015 - Grupp XX
+
+> Ändra XX till numret på din grupp.
 
 <img src="../images/user.png" width="200"> 
 > Ändra så att bilden länkar till bilden på dig. 
