@@ -1,11 +1,11 @@
-# Namn på projeket
+# Namn på projektet
 OSPP (1DT096) 2015 - Grupp XX
 
 > Lägg till namnet på projektet och ändra XX till numret på din grupp.
 
 Projektarbete på kursen Operativsystem och processorienterad programmering (1DT096) våren 2015, Uppsala universitet.
 
-> Lägg till en kort beskriving av projektet.
+> Lägg till en kort beskrivning av projektet.
 
 > Denna fil är skrivet i formatet Markdown, läs mer här:
 >
@@ -21,7 +21,7 @@ Projektarbete på kursen Operativsystem och processorienterad programmering (1DT
 
 > Kortfattade instruktioner för hur automatiska testfall körs.
 
-## Starta stystemet
+## Starta systemet
 
 > Kortfattade instruktioner för hur systemet startas.
 
@@ -37,7 +37,8 @@ Dokumentation, projektrapporter och andra viktiga dokument.
 
 Erlang beam-filer.
 
-> Ändra till `bin` eller `build` om projektet inte använder Erlang.
+> Ändra till `bin` eller `build` eller liknande om projektet inte
+> använder Erlang.
 
 ### meta
 
