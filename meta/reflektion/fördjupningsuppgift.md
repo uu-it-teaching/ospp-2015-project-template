@@ -1,9 +1,11 @@
-# OSPP (1DT096) 2015 - Reflektion på fördjupningsuppgift (grupp XX)
+# Reflektion på fördjupningsuppgift
 
-Kort reflektion på arbetet med fördjupningsuppgiften. Reflektera kring
-planering, arbetsfördelning, samarbete, tidsåtgång och
-slutresultatet. Det är viktigt att alla medlemmar i gruppen är
-delaktiga i reflektionen.
+OSPP (1DT096) 2015 - Grupp XX
+
+> Kort reflektion på arbetet med fördjupningsuppgiften. Reflektera
+> kring planering, arbetsfördelning, samarbete, tidsåtgång och
+> slutresultatet. Det är viktigt att alla medlemmar i gruppen är
+> delaktiga i reflektionen.
 
 ## Planering
 
