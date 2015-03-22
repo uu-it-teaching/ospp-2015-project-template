@@ -115,7 +115,7 @@ kritik.
 
 Kontraktet skall skrivas ut på papper, skrivas under
 (namnförtydligande och signatur av samtliga gruppmedlemmar) och lämnas
-in till ansvarig lärare på kursen. Därefter skall det hållas
+in till ansvarig lärare på kursen. Därefter skall kontraktet hållas
 uppdaterat som en del av gruppens repository på Github.
 
 Detta kontrakt har den __________________________  upprättats av:
