@@ -1,9 +1,11 @@
 # Namn på projektet
+
 OSPP (1DT096) 2015 - Grupp XX
 
 > Lägg till namnet på projektet och ändra XX till numret på din grupp.
 
-Projektarbete på kursen Operativsystem och processorienterad programmering (1DT096) våren 2015, Uppsala universitet.
+Projektarbete på kursen Operativsystem och processorienterad
+programmering (1DT096) våren 2015, Uppsala universitet.
 
 > Lägg till en kort beskrivning av projektet.
 
@@ -11,7 +13,8 @@ Projektarbete på kursen Operativsystem och processorienterad programmering (1DT
 >
 > - https://help.github.com/articles/markdown-basics/
 
-> Det går att redigera, förhandsvisa och spara (commit) sidan direkt i en webläsare via [projektsidan på github.com](./README.md).
+> Det går att redigera, förhandsvisa och spara (commit) sidan direkt i
+> en webläsare via [projektsidan på github.com](./README.md).
 
 ## Kompilera
 
